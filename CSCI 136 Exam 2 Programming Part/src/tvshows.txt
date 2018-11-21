@@ -1,0 +1,113 @@
+rank,title,rating points
+1,Roseanne ABC,6.2
+tie,NFL Sunday Night Football NBC,6.2
+3,This Is Us NBC,5.4
+4,The Walking Dead AMC,5.3
+5,NFL Thursday Night Football CBS/NFL Network,4.5
+6,The Big Bang Theory CBS,4.4
+7,NFL Thursday Night Football NBC/NFL Network,4
+8,The Good Doctor ABC,3.6
+tie,Monday Night Football ESPN,3.6
+10,Young Sheldon CBS,3.4
+tie,Grey’s Anatomy ABC,3.4
+12,9-1-1 Fox,3
+13,Modern Family ABC,2.9
+14,Will & Grace NBC,2.8
+tie, Empire Fox,2.8
+16,The Voice (Monday) NBC,2.6
+tie,American Horror Story FX,2.6
+18,The Voice (Tuesday) NBC,2.4
+tie, Survivor CBS,2.4
+tie,The Bachelor ABC,2.4
+21,Ellen’s Game of Games NBC,2.3
+tie,The Orville Fox,2.3
+23, NCIS CBS,2.2
+tie,Chicago PD NBC,2.2
+tie,American Idol (Sunday) ABC,2.2
+tie,Law & Order: SVU NBC,2.2
+27,Chicago Med NBC,2.1
+tie,Chicago Fire NBC,2.1
+tie,Scandal ABC,2.1
+tie,The Goldbergs ABC,2.1
+31,Mom CBS,2
+tie,Criminal Minds CBS,2
+tie,American Idol (Monday) ABC,2
+tie,The Middle ABC,2
+tie,How to Get Away with Murder ABC,2
+tie,Splitting Up Together ABC,2
+tie,The Gifted NBC,2
+38,Bull CBS,1.9
+tie,American Housewife ABC,1.9
+tie,The Good Place NBC,1.9
+tie,Star Fox,1.9
+tie,Jersey Show Family Vacation MTV,1.9
+43,Dancing with the Stars ABC,1.8
+tie,Seal Team CBS,1.8
+tie,S.W.A.T. NBC,1.8
+tie,Station 19 ABC,1.8
+tie,The Amazing Race CBS,1.8
+tie,The Resident Fox,1.8
+tie,Black-ish ABC,1.8
+tie,Fear the Walking Dead AMC,1.8
+tie,The Simpsons Fox,1.8
+tie,Family Guy Fox,1.8
+53,Life in Pieces CBS,1.7
+tie,Law & Order True Crime: The Menendez Murders NBC,1.7
+tie,Saturday Night Football ABC,1.7
+56,NCIS: New Orleans CBS,1.6
+tie,60 Minutes CBS,1.6
+tie,Hawaii Five-0 CBS,1.6
+tie,The Blacklist NBC,1.6
+tie,Designated Survivor ABC,1.6
+tie,Kevin Can Wait CBS,1.6
+tie,The Brave NBC,1.6
+tie,Lethal Weapon Fox,1.6
+tie,Speechless ABC,1.6
+tie,Superstore NBC,1.6
+tie,Ghosted Fox,1.6
+tie,Talking Dead AMC,1.6
+68,Blue Bloods CBS,1.5
+tie,NCIS:Los Angeles NBC,1.5
+tie,Scorpion NBC,1.5
+tie,Good Girls NBC,1.5
+tie,Shark Tank (9 p.m.) ABC,1.5
+tie,The Flash The CW,1.5
+tie,Love & Hip Hop Atlanta 7 VH1,1.5
+75,The X-Files Fox,1.4
+tie,Shark Tank (10 p.m.) ABC,1.4
+tie,Fresh Off the Boat ABC,1.4
+tie,The Four Fox,1.4
+tie,Gotham Fox,1.4
+tie,Real Housewives of Atlanta Bravo,1.4
+tie,Bob’s Burgers Fox,1.4
+tie,Teen Mom MTV,1.4
+83,Man with a Plan CBS,1.3
+tie,"Me Myself & I CBS",1.3
+tie,Lucifer Fox,1.3
+tie,Masterchef Junior Fox,1.3
+tie,Hell’s Kitchen Fox,1.3
+tie,Gold Rush Discovery,1.3
+tie,The Mick Fox,1.3
+tie,Brooklyn Nine-Nine Fox,1.3
+tie,Love & Hip-Hop 8 VH1,1.3
+tie,South Park Comedy Central,1.3
+93,MacGyver CBS,1.2
+tie,Wisdom of the Crowd CBS,1.2
+tie,The Crossing ABC,1.2
+tie,9JKL CBS,1.2
+tie,Better Late Than Never NBC,1.2
+tie,The Wall NBC,1.2
+tie,Deception ABC,1.2
+tie,Blindspot NBC,1.2
+tie,Timeless NBC,1.2
+tie,Curse of Oak Island History,1.2
+tie,Marvel’s Inhumans ABC,1.2
+tie,The Mayor NBC,1.2
+tie,Marvel’s Agents of S.H.I.E.L.D. ABC,1.2
+tie,WWE Entertainment USA,1.2
+tie,L.A. to Vegas Fox,1.2
+tie,Real Housewives of Beverly Hills Bravo,1.2
+tie,The Last Man on Earth Fox,1.2
+tie,Westworld HBO,1.2
+tie,New Girl Fox,1.2
+tie,Love & Hip-Hop Miami VH1,1.2

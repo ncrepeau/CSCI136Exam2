@@ -1,0 +1,5 @@
+Jeff, Bezos, 04-12-2018 13:00:00.000, Spiderman, Marvel, $6
+Michael, Scott, 06-25-2017 02:00:00.000, Superman, DC, $2
+Jeffrey, Bogart, 07-06-2018 12:00:00.000, Astroboy, Japan, $3
+Aaron, Judge, 01-01-2016 11:59:00.000, National Geographic, National Geographic, $20
+Kanye, West, 09-21-2000 10:30:00.000, Vogue, Condé Nast, $10
