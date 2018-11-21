@@ -1,4 +1,3 @@
-rank,title,rating points
 1,Roseanne ABC,6.2
 tie,NFL Sunday Night Football NBC,6.2
 3,This Is Us NBC,5.4

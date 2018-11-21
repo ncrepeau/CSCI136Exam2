@@ -1,5 +1,8 @@
 package Problem2;
 
+import java.util.Arrays;
+
+
 public class Arraylist {
 	private int i = 0;
 
@@ -13,10 +16,10 @@ public class Arraylist {
 		return sizeOfArray;
 	}
 
-	public String[] expand(String[] tvArray) {
-		String[] tvArray2 = new String[tvArray.length * 2];
-		tvArray2 = tvArray;
-		return tvArray2;
+	public static <T> T[] expand(T[] tvArray, T element) {
+		T[] result = Arrays.copyOf(tvArray, tvArray.length * 2);
+		result[tvArray.length] = element;
+		return result;
 	}
 	public String get(String[] tvArray, int arrayIndex) {
 		String value = tvArray[arrayIndex];
